@@ -4,7 +4,7 @@ h1{
     text-align: center;
     font-family: cursive;
     font-weight: bold;
-    background: black;
+    background: blue;
     border: 8px dotted yellow;
     
 }
@@ -28,20 +28,20 @@ p{
     padding-top: 25px;
     padding-bottom: 25px;
     text-align: center;
-    background: black;
-    color: red;
+    background: blue;
+    color: yellow;
     border: 8px dotted yellow;
 } 
 
-.NeymarBarca{
+.ZlatanManU{
     background:black;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    border: 8px dotted yellow;
+    border: 8px dotted red;
 }
-.NeymarBrazil{
+.ZlatanSweden{
     background:black;
     padding-top: 10px;
     padding-bottom: 10px;
