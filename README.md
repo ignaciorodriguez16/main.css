@@ -4,13 +4,13 @@ h1{
     text-align: center;
     font-family: cursive;
     font-weight: bold;
-    background: blue;
-    border: 8px dotted yellow;
+    background: white;
+    border: 8px dotted red;
     
 }
 ul{
     list-style-type: disc;
-    background-color: white;
+    background-color: indianred;
 }
 .Garsha{
     height: 300px;
@@ -21,19 +21,19 @@ ul{
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    border: 8px dotted yellow;
+    border: 8px dotted red;
 }
 p{ 
     font-family: Verdana, cursive;
     padding-top: 25px;
     padding-bottom: 25px;
     text-align: center;
-    background: blue;
-    color: yellow;
-    border: 8px dotted yellow;
+    background: white;
+    color: red;
+    border: 8px dotted red;
 } 
 
-.ZlatanManU{
+.BaleRea{
     background:black;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -41,11 +41,11 @@ p{
     padding-right: 10px;
     border: 8px dotted red;
 }
-.ZlatanSweden{
+.BaleWales{
     background:black;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    border: 8px dotted yellow;
+    border: 8px dotted red;
 }
